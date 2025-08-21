@@ -5,6 +5,7 @@
 <img width="1008" height="540" alt="image" src="https://github.com/user-attachments/assets/a1f3e6bd-9bdf-4b2a-b68e-51f86e6d9b41" />
 
 A MATLAB-based software tool that combines artificial intelligence with 3D geological modeling to automatically detect and map joint traces in rock masses. This innovative approach addresses the limitations of traditional manual surveying methods by utilizing virtual digital image rendering and deep learning techniques.
+![Uploading Picture1.png…]()
 
 ### 🔬 Key Features
 
